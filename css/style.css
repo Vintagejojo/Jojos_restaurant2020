@@ -1,0 +1,74 @@
+
+body {
+    background: #fef9cf;
+}
+
+.inner_bar {
+    width: auto;
+    height:30px;
+    background: #dd4a3a;
+}
+
+.inner_bar_nxt {
+    width: auto;
+    height: 80px;
+    background: #dd4a3a;
+}
+
+.inner_bar_last {
+    width: auto;
+    height: 100px;
+    background: #fef9cf;
+    margin-bottom: 40px;
+
+}
+
+img.img_mods {
+    height: 60%;
+    width: 60%;
+}
+
+.logo {
+    color: #ffe3de;
+}
+
+ul {
+    display: inline;
+}
+
+/* I guess this is the form below? */
+
+.active-cyan input[type=text] {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+  }
+
+  /* Hero background segments */
+
+  .hero_image_mods {
+      width: auto;
+      height: 550px;
+  }
+
+  .background_hero {
+      margin-bottom: 40px;
+  }
+
+  /* main column with chef cards */
+
+  figure {
+      background: white;
+      border: 1px solid #494747;
+  }
+
+ .figure_head {
+    font-size: 25px;
+ }
+
+
+ /* end main column and begin
+ Lower Main Column Below */
+
+ .lower_main {
+     background: #faf6eb;
+ }
